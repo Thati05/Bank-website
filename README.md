@@ -1,7 +1,3 @@
-# Figma Design
-![Desktop - 1](https://github.com/Thati05/Bank-website/assets/151874357/c936aab3-5479-40f8-baeb-a953f8381298)
-
-
 # Dodo Bank Website
 
 
@@ -19,6 +15,11 @@ Welcome to Dodo Bank's website! This project showcases the best practices of Rea
 - **Tailwind CSS**: Provided a utility-first approach for styling.
 - **React Routing**: Enabled smooth navigation between pages.
 - **Figma**: Used for designing the website layout.
+
+## Figma Design
+Here is the Figma design for the Dodo Bank website:
+![Desktop - 1](https://github.com/Thati05/Bank-website/assets/151874357/c936aab3-5479-40f8-baeb-a953f8381298)
+
 
 ## Key Features
 
