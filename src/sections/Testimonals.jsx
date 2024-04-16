@@ -11,7 +11,7 @@ const Testimonals = () => {
         <h2 className=' text-4xl  font-bold capitalize w-[464px] '>what are people saying about us?</h2>
         <p className='font-light items-end w-[466px]'>Lorem ipsum dolor sit amet consectetur. Enim semper sed amet velit nunc id in.</p>
       </div>
-      <div className=' grid-rows-3 flex flex-1 items-center grid-cols-1 mt-[100px] justify-around gap-[100px]'>
+      <div className=' grid-rows-3 flex flex-1 items-center grid-cols-1 mt-[100px] justify-around gap-[100px] flex-wrap max-xl:flex-col'>
         {testimonals.map((test) => (
           <UserReviews key={test.name} {...test} />
         ))}
